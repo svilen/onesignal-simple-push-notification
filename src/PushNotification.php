@@ -1,6 +1,6 @@
 <?php
 
-namespace JeanJar\OneSignal;
+namespace Svilen\OneSignal;
 
 /**
  * Class PushNotification

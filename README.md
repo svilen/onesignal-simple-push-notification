@@ -8,7 +8,7 @@
 ### Initial Setup
 ```php
 <?php
-use JeanJar\OneSignal\PushNotification;
+use Svilen\OneSignal\PushNotification;
 
 $api_id = 'API_ID';
 $rest_api_key = 'REST_API_KEY';
@@ -84,4 +84,3 @@ $pushNotification->setBody('English Message')
 
 ## Enjoy!
 
-[Wanna by me a coffee? :coffee:](https://www.patreon.com/join/jeanjar)
