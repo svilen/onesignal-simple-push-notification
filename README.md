@@ -2,6 +2,9 @@
 
 # Examples
 
+### Install with Composer
+```composer require svilen/onesignal-simple-push-notification```
+
 ### Initial Setup
 ```php
 <?php

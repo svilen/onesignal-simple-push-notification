@@ -1,5 +1,5 @@
 {
-    "name": "jeanjar/onesignal-simple-push-notification",
+    "name": "svilen/onesignal-simple-push-notification",
     "description": "A simple implementation to send push notifications with OneSignal",
     "type": "library",
     "require-dev": {
@@ -8,8 +8,8 @@
     "license": "Apache 2.0",
     "authors": [
         {
-            "name": "Jean Jar Pereira de Araújo",
-            "email": "jeanjpa@gmail.com"
+            "name": "Svilen Spasov",
+            "email": "svilen@svilen.com"
         }
     ],
     "config": {
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JeanJar\\OneSignal\\": "src/"
+            "Svilen\\OneSignal\\": "src/"
         },
         "files": [
             "src/Support/helper.php"
